@@ -1,0 +1,6 @@
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\bin\Debug\CookNote.dll
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\bin\Debug\CookNote.pdb
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\obj\Debug\CookNote.csproj.AssemblyReference.cache
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\obj\Debug\CookNote.csproj.CoreCompileInputs.cache
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\obj\Debug\CookNote.dll
+D:\INFORMACION USUARIO\Desktop\Final-Diciembre-2022\CookNote\CookNote\obj\Debug\CookNote.pdb
